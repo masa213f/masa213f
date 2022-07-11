@@ -2,10 +2,12 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=masa213f&show_icons=true)
 
-- I'm a software engineer, working on Kubernetes.
-- Tech Stack
-    - Go
-    - Kubernetes
-    - Bash
-    - GNU make
-    - GitHub Actions
+- 💻I'm a software engineer, working on Kubernetes.
+- 🏆Tech Stack
+  - Go
+  - Kubernetes
+  - Bash
+  - GNU make
+  - GitHub Actions
+- 📫 How to reach me:
+  - [Twitter](https://twitter.com/masa213f)
